@@ -1,0 +1,1 @@
+This is a helloworld example for [Learn Typescript in React & Webpack](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html).
